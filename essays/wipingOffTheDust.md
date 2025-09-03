@@ -11,8 +11,11 @@ labels:
 
 <img src= /img/wiping-dust.jpg>
 
+## A Small Break
+
 As of right now, I’m starting my 3rd year of studies at UH Manoa, but am considered a 2nd year in terms of my Computer Science degree. Coming back from a one-year study abroad in Japan, I’ve truly experienced a plethora of new things; living abroad for the first time, learning a whole different culture and language, and even how to better communicate with others despite obstacles like language barriers. Sometimes, being in situations where you wanted to say something but didn’t have the capacity to explain yourself, or trying to explain a certain subject and realizing that some things are easier to say in one language than another, really expanded my worldview. While I had experienced a lot, I still had to come back, and coming back to Hawaii meant getting back into the groove of things, especially back to computer science. 
 
+## Getting Into It
 
 To be quite honest, I had forgotten quite a bit about coding, so I was a bit nervous coming back to school. However, starting this class, ICS 314, with the basics and a tutorial of JavaScript, not only let me learn a new coding language, as I had no experience with JavaScript, but it also helped refresh my memory of some coding basics, and allowed me to gain a deeper understanding of the limits of each language. 
 
@@ -20,5 +23,6 @@ Much like learning Japanese and finding certain phrases or concepts harder to tr
 
 On top of JavaScript, learning TypeScript after JavaScript showed me the importance of having constraints, especially with data types, as it makes code easier to understand and helps with bug fixing down the road. Even though I’m still getting used to the syntax of TypeScript and JavaScript, much like learning Japanese, becoming proficient is really only a matter of time and practice. 
 
+## What now?
 
 It’s still quite early on in my life, and while I’m very unsure of how my future will go (seeing as I’m pursuing two completely different majors), I am very excited about the possible paths I can take. I’m very passionate about both Computer Science and Japanese, and despite the stress that this class may cause, I’m curious to see how much more I can learn about software engineering and how this class will impact my career in the future. 
