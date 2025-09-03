@@ -12,7 +12,7 @@ labels:
 summary: "A Markov chain language model for ICS 211."
 ---
 
-
+<img src="../img/MarkovWords.png" width="400" height="auto">
 
 This is a Markov Chain language model that generates random text based on the frequency of the word that comes after it. Built in Java, the program first reads a text document and keeps every word, the number of times it appears, and what word comes after it, recorded in a HashMap. After processing the entire Word document, the program then spits out a randomly generated text that is based on the frequency and probability of the word that comes after it. 
 
