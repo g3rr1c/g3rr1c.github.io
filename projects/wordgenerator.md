@@ -54,8 +54,8 @@ The case of impeachment for, and vote by the congress may be chosen. representat
 
 <hr>
 
-While the output is a bunch of gibberish, it still displays a simple language model that could possibly imitate human speech based on word patterns. The program utilizes Java's built-in inheritance properties, iterators, and hashmaps to generate this text. My role in this project was to find a way to properly store the values of what word came after the other and to create a way for the model to generate text by choosing the next word randomly based on the percentage of words that followed it. I had accomplished this through 
+While the output is a bunch of gibberish, it still displays a simple language model that could possibly imitate human speech based on word patterns. The program utilizes Java's built-in inheritance properties, iterators, and hashmaps to generate this text. My role in this project was to find a way to properly store the values of what word came after the other and to create a way for the model to generate text by choosing the next word randomly based on the percentage of words that followed it. 
 
-Through this project, I learned how to implement Java interfaces, how to properly utilize the Java hierarchy, how to use iterators and their methods, as well as Hash Maps. This taught me a lot about how much more Java as a language can do compared to other languages by using a strict hierarchy system for organization.
+Through this project, I learned how to implement Java interfaces, how to properly utilize the Java hierarchy, how to use iterators and their methods, as well as how to use HashMaps. This taught me how much more Java as a language can do compared to other languages by using a strict hierarchy system for organization and object oriented programming. 
 
 Git Repository: <a href="[https://github.com/jogarces/ics-313-text-game](https://github.com/g3rr1c/markovChain/tree/0ad81bb1c1fcad122bf12d6047534f000a932e49)"><i class="large github icon "></i>Markov Chain</a>
