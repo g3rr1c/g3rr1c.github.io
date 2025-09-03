@@ -11,6 +11,8 @@ labels:
 
 <img src= /img/wiping-dust.jpg>
 
+<div></div>
+
 ## A Small Break
 
 As of right now, I’m starting my 3rd year of studies at UH Manoa, but am considered a 2nd year in terms of my Computer Science degree. Coming back from a one-year study abroad in Japan, I’ve truly experienced a plethora of new things; living abroad for the first time, learning a whole different culture and language, and even how to better communicate with others despite obstacles like language barriers. Sometimes, being in situations where you wanted to say something but didn’t have the capacity to explain yourself, or trying to explain a certain subject and realizing that some things are easier to say in one language than another, really expanded my worldview. While I had experienced a lot, I still had to come back, and coming back to Hawaii meant getting back into the groove of things, especially back to computer science. 
