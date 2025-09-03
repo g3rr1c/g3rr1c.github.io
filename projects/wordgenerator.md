@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/cotton/cotton-square.png
-title: "Simple Language Model"
+title: "Not Quite English"
 date: 2024
 published: true
 labels:
