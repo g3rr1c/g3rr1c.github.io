@@ -58,7 +58,7 @@ While the output is a bunch of gibberish, it still displays a simple language mo
 
 Through this project, I learned how to implement Java interfaces, how to properly utilize the Java hierarchy, how to use iterators and their methods, as well as how to use HashMaps. This taught me how much more Java as a language can do compared to other languages by using a strict hierarchy system for organization and object oriented programming. 
 
-Here is some example code:
+Here is some example code for the iterator portion of the model:
 
 {% gist 55af9b848f35c9d5a593bc3ce35a249d %}
 
