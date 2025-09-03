@@ -1,14 +1,12 @@
 ---
 layout: essay
 type: essay
-title: "Smart Questions, Good Answers"
+title: "Wiping off the Dust with TypeScript"
 # All dates must be YYYY-MM-DD format!
-date: 2015-09-08
+date: 2025-09-02
 published: true
 labels:
-  - Questions
-  - Answers
-  - StackOverflow
+  - TypeScript
 ---
 
 <img width="300px" class="rounded float-start pe-4" src="../img/smart-questions/rtfm.png">
