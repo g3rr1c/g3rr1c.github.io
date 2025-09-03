@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/738ab225-29fd-4a8a-bc65-a5035e23fd08" />
+image: img/MarkovWords.png
 
 title: "Not Quite English"
 date: 2024
