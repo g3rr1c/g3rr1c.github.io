@@ -58,4 +58,8 @@ While the output is a bunch of gibberish, it still displays a simple language mo
 
 Through this project, I learned how to implement Java interfaces, how to properly utilize the Java hierarchy, how to use iterators and their methods, as well as how to use HashMaps. This taught me how much more Java as a language can do compared to other languages by using a strict hierarchy system for organization and object oriented programming. 
 
+Here is some example code:
+
+{% gist 55af9b848f35c9d5a593bc3ce35a249d %}
+
 Git Repository: <a href="[https://github.com/jogarces/ics-313-text-game](https://github.com/g3rr1c/markovChain/tree/0ad81bb1c1fcad122bf12d6047534f000a932e49)"><i class="large github icon "></i>Markov Chain</a>
