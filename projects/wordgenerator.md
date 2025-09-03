@@ -14,7 +14,7 @@ summary: "A Markov chain language model for ICS 211."
 
 
 
-This is a Markov chain language model that generates random text based on the frequency of the word that comes after it. Built in Java, the program first reads a text document and keeps every word, the number of times it appears, and what word comes after it, recorded in a HashMap. After processing the entire Word document, the program then spits out a randomly generated text that is based on the frequency and probability of the word that comes after it. 
+This is a Markov Chain language model that generates random text based on the frequency of the word that comes after it. Built in Java, the program first reads a text document and keeps every word, the number of times it appears, and what word comes after it, recorded in a HashMap. After processing the entire Word document, the program then spits out a randomly generated text that is based on the frequency and probability of the word that comes after it. 
 
 To give you an example of the program, here is a part of the U.S. Constitution. 
 
@@ -56,4 +56,4 @@ The case of impeachment for, and vote by the congress may be chosen. representat
 
 While the output is a bunch of gibberish, it still displays a simple language model that could possibly imitate human speech based on word patterns. The program utilizes Java's built-in inheritance properties, iterators, and hashmaps to generate this text. 
 
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
+Git Repository: <a href="[https://github.com/jogarces/ics-313-text-game](https://github.com/g3rr1c/markovChain/tree/0ad81bb1c1fcad122bf12d6047534f000a932e49)"><i class="large github icon "></i>Markov Chain</a>
