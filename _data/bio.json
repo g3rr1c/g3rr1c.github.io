@@ -1,45 +1,43 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Gerric Abe",
     "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
+    "picture": "https://github.com/g3rr1c.png",
+    "email": "gerrica@hawaii.edu",
+    "phone": "808-428-6332",
+    "website": "https://g3rr1c.github.io",
+    "summary": "I am studying for a Double Major in the B.A. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii and Japanese in the East Asian Languages Department. I expect to graduate in Spring, 2028.",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "g3rr1c", "url": "http://github.com/g3rr1c" },
+      { "network": "linkedin", "username": "gerric-abe", "url": "http://linkedin.com/in/gerric-abe" },
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Software Engineering" },
+    { "name": "PC Building" },
+    { "name": "Language Learning" },
+    { "name": "Hiking/ Gym" },
+    { "name": "Movies" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "C", "Java", "Javascript", "Python", "Japanese" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "MacOS",  "Git/GitHub" ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "area": "Computer Science, Japanese (expected Spring, 2028)",
+      "studyType": "B.A.",
+      "startDate": "2023-09-01",
       "endDate": "Present",
-      "courses": [
+      "courses": ["ICS 111, 211 (Data structures and Algorithms"
       ]
     }
   ],
