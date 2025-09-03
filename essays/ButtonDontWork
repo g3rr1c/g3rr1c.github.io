@@ -4,7 +4,7 @@ type: essay
 title: "Wiping off the Dust with TypeScript"
 # All dates must be YYYY-MM-DD format!
 date: 2025-09-02
-published: True
+published: true
 labels:
   - Computer Science
 ---
