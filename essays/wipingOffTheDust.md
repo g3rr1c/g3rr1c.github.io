@@ -9,9 +9,10 @@ labels:
   - TypeScript
 ---
 
-<img src= /img/wiping-dust.jpg>
+<img src="/img/wiping-dust.jpg">
 
-<div></div>
+
+
 
 ## A Small Break
 
