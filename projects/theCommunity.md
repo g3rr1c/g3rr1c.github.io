@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/vacay/vacay-square.png
+image: img/communityPodcast.png
 title: "The Community Podcast"
 date: 2023
 published: true
@@ -11,6 +11,6 @@ labels:
 summary: "A podcast/ video representing the community that influenced me the most. "
 ---
 
-<img class="img-fluid" src="">
+<img class="img-fluid" src="img/communityPodcast.png">
 
 The Community Podcast is a multi-model project made for my English class, and it talks about and gives a deep look into the community that shaped me the most, the Kapolei High School Marching Band. Here I organized interviews with members of the community and wanted to show their stories through a podcast-style 
