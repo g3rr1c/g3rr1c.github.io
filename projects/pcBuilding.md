@@ -2,13 +2,14 @@
 layout: project
 type: project
 image: img/communityPodcast.jpg
-title: "The Community Podcast"
-date: 2023
+title: "Building a PC"
+date: 2025
 published: true
 labels:
-  - Video
-  - Project
-summary: "A podcast/ video representing the community that influenced me the most. "
+  - Hardware
+  - Windows
+  - PC Building
+summary: "Building my First PC"
 ---
 
 <img class="img-fluid" src="img/communityPodcast.jpg">
