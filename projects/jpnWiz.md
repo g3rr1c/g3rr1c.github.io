@@ -21,7 +21,7 @@ The Japan Wizards Competition is a yearly competition hosted by the Japan Americ
 
 For this project, I was the team leader who was responsible for team communication, decision-making, organization, and team morale. Before each practice and competition, I ensured our team was aware of their roles, informed of the rules, prepared, and on time. During practices, I 
 
-Here is some code that illustrates how we read values from the line sensors:
+
 
 
 
