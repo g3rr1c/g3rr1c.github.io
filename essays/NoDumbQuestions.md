@@ -10,7 +10,7 @@ labels:
   - Problem Solving
 ---
 
-<img src="/img/questionMark.jpg">
+<img width="600px" src="/img/questionMark.jpg">
 
 
 ## No Dumb Questions
