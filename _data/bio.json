@@ -23,11 +23,11 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "Java", "TypeScript", "Python", "Japanese" ]
+      "keywords": [ "C",  "Java", "TypeScript", "Python", "Japanese" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS",  "Git/GitHub" ]
+      "keywords": [ "MacOS", "Bash", "Git/GitHub", "Windows"]
     }
   ],
   "education": [

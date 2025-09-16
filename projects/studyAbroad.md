@@ -18,3 +18,8 @@ summary: "I participated in a 9 month study abroad program in Kobe, Japan. Durin
 </div>
 
 I participated in a year long study abroad 
+
+HOw was this a project?
+
+I had to adapt to a new environment 
+i had to coordinate 
