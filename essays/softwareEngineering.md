@@ -11,7 +11,7 @@ labels:
   - Future Goals
 ---
 
-<img src="../img/softwareEngineer.png">
+<img src="../img/softwareEngineer.jpg">
 
 ## More Than Just Numbers
 

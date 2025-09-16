@@ -14,7 +14,7 @@ summary: "Building my First PC"
 
 <img class="img-fluid" src="../img/pcSideView1.png" width="400" height="auto">
 
-I had always wanted to play video games on a PC and also wanted an upgrade from my old laptop, so in summer 2025, I made the bold decision to build my own PC. Building your own PC requires you to do research on each invidual part, and on top of that allows you to save some money. The PC I built uses a MSI AM5 motherboard, Radeon RX 9060 XT, 32 GB of memory, and an AMD Ryzen 7 processor. 
+I had always wanted to play video games on a PC and also wanted an upgrade from my old laptop, so in Summer 2025, I made the bold decision to build my own PC. Building your own PC requires you to do research on each invidual part, and on top of that allows you to save some money. The PC I built uses a MSI AM5 motherboard, Radeon RX 9060 XT, 32 GB of memory, and an AMD Ryzen 7 processor. 
 
 The first thing I did was do research. When building a PC, after figuring out your budget, you then plan out how much you want to spend on each part. Certain parts like the graphics card or motherboard are important so you need to take into consideration how much of your budget you want to alot to those parts, while still keeping the rest of the build, like monitor, fans, case, or ram good enough. For organization help, I used a website called pcpartspicker. It helped me choose parts that work well with each other as well as shows the best part you can get for your buck. 
 
