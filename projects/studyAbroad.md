@@ -20,6 +20,11 @@ summary: "I participated in a 9 month study abroad program in Kobe, Japan. Durin
 I participated in a year long study abroad 
 
 HOw was this a project?
+  had to present multiple projects in front of large crowds
+  perform 
+  utilize communication skills with students of different backgrounds despite language barriers
+  had to learn more independence with navigating a foreign country
+  
 
 I had to adapt to a new environment 
 i had to coordinate 

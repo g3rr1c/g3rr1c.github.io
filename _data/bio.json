@@ -10,7 +10,7 @@
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "g3rr1c", "url": "http://github.com/g3rr1c" },
-      { "network": "linkedin", "username": "gerric-abe", "url": "http://linkedin.com/in/gerric-abe" },
+      { "network": "linkedin", "username": "gerric-abe", "url": "http://linkedin.com/in/gerric-abe" }
     ]
   },
   "interests": [
@@ -51,7 +51,6 @@
       "summary": "Led a team of employees to ensure smooth operations and exceptional customer service during shifts.",
       "highlights": [
         "Managed inventory, cash handling, and resolved customer issues efficiently."
-     
       ]
     }
   ],
