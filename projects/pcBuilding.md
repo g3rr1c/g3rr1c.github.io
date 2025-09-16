@@ -12,7 +12,7 @@ labels:
 summary: "Building my First PC"
 ---
 
-<img class="img-fluid" src="img/pcSideView.jpeg">
+<img class="img-fluid" src="../img/pcSideView1.png">
 
 I had always wanted to play video games on a PC and also wanted an upgrade from my old laptop, so in summer 2025, I made the bold decision to build my own PC. Building your own PC requires you to do research on each invidual part, and on top of that allows you to save some money. The PC I built uses a MSI AM5 motherboard, Radeon RX 9060 XT, 32 GB of memory, and an AMD Ryzen 7 processor. 
 
