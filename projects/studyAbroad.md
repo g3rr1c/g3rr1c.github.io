@@ -13,7 +13,7 @@ summary: "I participated in a 9 month study abroad program in Kobe, Japan. Durin
 ---
 
 <div class="text-center p-4">
-  <img class="img-fluid" src="../img/japan/koyasan.jpeg.png" width="1000" height="auto">
+  <img class="img-fluid" src="../img/japan/koyasan.jpeg" width="1000" height="auto">
 </div>
 
 During my year-long study abroad in Kobe, Japan, I went through various endeavors and experiences. I had to adapt to a completely new environment and had to learn how to navigate daily life in a foreign country. I was also living with a host family, which meant not only coordinating schedules and adjusting to a different household culture, but also communicating across language and cultural differences. Despite the various challenges I faced, I truly grew a lot, as I had to overcome many obstacles and perform various tasks throughout the program. 
