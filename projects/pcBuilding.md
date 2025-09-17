@@ -20,7 +20,7 @@ The first thing I did was do research. When building a PC, after figuring out yo
 
 [Here is my pcpartspicker build.](https://pcpartpicker.com/list/LNmxqH)
 
-<img class="img-fluid" src="../img/pcpartpicker.png" width="400" height="auto">
+<img class="img-fluid" src="../img/pcpartpicker.png" width="1000" height="auto">
 
 After researching and buying the parts, the next is assembling your PC. This part took a while, as you had to be careful when installing certain parts as damaging them could mean ruining your PC. Also, when connecting all the parts together (for exmaple, from motherboard to to power supply), you need to make sure each cable goes into the correct spot and is secured properly. After plugging everything in, you see if you did everything correct if your PC starts up. I ran into some issues with this part, but after troublshooting a bit, I realized that I didn't plug in my cables all the way and had put some connectors in the wrong spots.
 
