@@ -1,54 +1,23 @@
 ---
 layout: essay
 type: essay
-title: "The difficult things will always be difficult"
+title: "Consistency in Coding"
 # All dates must be YYYY-MM-DD format!
-date: 2016-02-06
-published: false
+date: 2025-09-24
+published: true
 labels:
-  - Engineering
+  - ESLint
+  - Typescript
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
+<img width="500px" src="../img/difficulty/degree_difficulty.jpg">
 
-*Difficulty: a thing that is hard to accomplish, deal with, or understand.*
+# Consistency in Code
+Regulations and standards are something that is by no means foreign to me. Standards exist everywhere and are made to keep order, ensure quality, and maintain safety. Having worked at Baskin-Robbins for 3 years, I am well familiar with safety standards in the food industry; things like proper food handling and sanitization, as well as regulations and conduct for chains to ensure that each location is providing a similar experience. However, in terms of coding, using ESLint for the first time and having strict coding standards made me realize just how important consistency and regulations are, not just in the workplace, but in areas and professions like coding as well. 
 
-One of my friends asked the question earlier last week -- why is it so hard to be an officer for the student branch? Why is so hard compared to working at my on-campus job? This question came after he struggled a little with bookkeeping for the student organization.
+# A Rough Start
+At first, using ESLint with its strict coding standards was a big pain. Being used to coding on my own, there were a lot of things that I had to get used to that I wasn’t doing before. Things like having to add an extra line at the end of a file, making sure there are spaces in between parentheses, utilizing only one quotation instead of two, and making sure that variables I don’t reassign are initialized with const; all of these were things that I had to keep in mind when coding. It was especially painful when trying to solve a WOD in a timed environment, and having to worry about coding standards on top of solving the problem. 
 
-Now I gave him the standard answer - being an officer of an organization requires that you manage your time between school and work. There isn't anyone telling you what to do. It's the answer any good mentor would give, and is mostly true.
+# Standards in General
+However, after practicing more with ESLint, I gradually got used to all of these extra steps. And after I got used to it, I now realize why standards are so important, even in coding. Having standards with coding helps prevent you from making errors in the future, and also makes your code easier to read for other people. In any situation where other people are reviewing or using a product that you’ve made, you want to ensure that the product is consistent with everything else. In the food industry, that means ensuring your food product always looks and is prepared consistently for safety. For coding, that’s making sure that your code is always typed in the same way for readability and for minimizing errors and bugs. Both of these ensure that others have no problems receiving your product, and in the long run, help build good practices for the future. 
 
-But the more I though about it, the more I wondered to myself...damn that's a really great question; it's one that deserves some more thought. Most people I think stop at the answer I gave previously - he obviously isn't managing his time properly.
-
-Here's what I think: the difficult things will always be difficult.
-
-## In the context of programming
-
-In the context of programming, this has always been true. The difficult problems have always been different, although changes in technology can change the landscape quite a bit. "Business" type applications are the things that come to mind for me. Those types of applications are usually coupled in some way with people ... and people are awfully hard to deal with!
-
-Consider that one of the most popular content management systems is also considered the most horrible - Wordpress. But really, is there anything that fills that need? If it was so easy in the first place, where is the solution? Where's the magic CMS that is designed well enough that everyone hops on the boat to use it?
-
-Some things are just difficult - building applications that humans use is hard, and will probably be hard for at least the near future.
-
-## In the context of engineering
-
-Ever hear people ragging on engineering companies for delivering late and way over budget? Well, some engineering jobs are really difficult, especially if the requirements and funding are undulating underneath you. Because of the nature of the problem, sometimes engineering firms require large amounts of engineers and workers, inviting further problems and delays.
-
-The Honolulu Rail project at home has become this sort of poster child of failure, budget overrun and overall incompetence in Hawaii. Well, working though regulatory boards and fiscal procedures in Hawaii seems like it's a mind bogglingly difficult job to do. Granted, there might be some fishy stuff going on, but I refuse to believe that everyone is involved for nefarious reasons.
-
-The problem of creating an unprecedented public transportation backbone on an island is difficult! I'm not sure we would have done it right, even if the best people were involved.
-
-## In the context of relationships
-
-So in the end, we realize that all engineering and programming is there for a reason - to serve human needs. Maybe that's why those things are difficult, because they both involve humans and are for humans.
-
-Relationships, regardless if they're romantic or not take work. Humans are fickle creatures and relationships can come and go with the wind. To properly maintain something over time requires work. Family takes work. Marriage takes work. We live to figure out what works and what doesn't and hope that as we move forward we're improving.
-
-Relationships have always been difficult, and by nature will continue to be so.
-
-## Okay!
-
-So back to the original premise; why is being one of the club officers so difficult?
-
-And the final answer - it's supposed to be difficult, and it's supposed to challenge you, just like everything else that humans do that is difficult: programming, engineering, engaging in relationships, pondering the universe, etc.
-
-Ultimately the question you should really ask yourself if something if particularly difficult is then "is it worth it"? That is something that is context specific and only you can answer yourself.
