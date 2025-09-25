@@ -10,7 +10,7 @@ labels:
   - Typescript
 ---
 
-<img width="500px" src="../img/difficulty/degree_difficulty.jpg">
+<img width="500px" src="../img/washinghands.png">
 
 # Consistency in Code
 Regulations and standards are something that is by no means foreign to me. Standards exist everywhere and are made to keep order, ensure quality, and maintain safety. Having worked at Baskin-Robbins for 3 years, I am well familiar with safety standards in the food industry; things like proper food handling and sanitization, as well as regulations and conduct for chains to ensure that each location is providing a similar experience. However, in terms of coding, using ESLint for the first time and having strict coding standards made me realize just how important consistency and regulations are, not just in the workplace, but in areas and professions like coding as well. 
