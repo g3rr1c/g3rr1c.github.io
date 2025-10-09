@@ -25,7 +25,7 @@ Here's a picture of a website made without Bootstrap.
 ## Getting An Upgrade
 Using Bootstrap 5, on the other hand, was like getting a canvas and a set of watercolors. With Bootstrap, you’re able to create so much more with a lot less time and effort. Using preset items like containers, navbars, and built-in features that allow you to adjust padding and margins lets you create a webpage way easier than with raw HTML and CSS. It gives you a lot more tools to work with, which not only saves you time but also allows you to have better control over what you want to show the user. 
 
-Here's a picture of a website made without Bootstrap. 
+Here's a picture of a website made WITH Bootstrap. 
 <img height="500px" src="/img/islandsnow.png">
 
 ## Why Frameworks?
