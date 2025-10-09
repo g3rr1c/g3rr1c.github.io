@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Frameworks"
+title: "Painting With a Stick"
 # All dates must be YYYY-MM-DD format!
 date: 2025-10-08
 published: true
@@ -13,34 +13,15 @@ labels:
 <img width="600px" src="/img/questionMark.jpg">
 
 
-## No Dumb Questions
-“There’s no such thing as a dumb question” is a saying that’s been said countless times. And to a certain extent, it is true; it’s certainly better to ask a question than to sit in confusion. However, there is a clear distinction between a simple question and a good, well thought out one. A well thought out question allows others to identify what exactly to help with, and even allows for a better understanding, even if one may not be able to find a clear answer. 
+## Learning the Basics
+Learning HTML and CSS for the first time was a completely different experience from any other programming language. Rather than thinking of how to optimize the program or trying to devise clever ways to get to the solution, with HTML and CSS, it goes to a completely different side of software development, which is more on the side of creativity. When creating webpages, you start with a blank canvas of a web page, gradually filling it line by line with HTML and CSS, and eventually, you get a complete website. All of HTML and CSS is about graphics, design, and creativity. However, oftentimes your creative vision doesn’t translate well to the canvas, especially when working with raw HTML and CSS. 
 
-## Questions For Software Engineers
-Asking good questions is especially important for software developers and engineers. Dealing with complex code means running into countless errors and bugs, and in times of confusion and frustration, one has no choice but to get help and ask questions. However, before immediately going to Stack Overflow, doing your best to solve the problem on your own is more important. Being thorough and doing your own research to solve the problem before going out to ask for help solves multiple problems: the first being that it eliminates careless mistakes. Things like syntax errors can be easily solved by looking carefully at your code, looking up the manual, or looking it up on google. The second is that it solves the problem of not knowing enough background. Sometimes problems are simply a matter of not knowing enough about your issue and being overwhelmed with too much information. Doing your research before asking for help allows you to fill gaps in knowledge and gain a better context of the problem. 
+## Painting With a Stick
+Using HTML and CSS is a lot like trying to draw something, but all you are given is a stick and some dirt. Of course, if you’re really good, you can probably make something out of it, but most of the time, you are left with a barebones imitation of what you envisioned. Using raw HTML and CSS lets you get the general idea of what kind of information you want to be displayed; however, it takes a lot of time and effort in order to make it look pretty. 
 
-## What Constitutes a Good Question?
-Asking good questions is a combination of both doing research beforehand, but also, more importantly, being specific about what you need help with. Once you have a proper background knowledge of your problem, when asking a question, you can then give proper contex,t like the software version you’re using, the specific language you’re in, the outcome that you wanted, and the outcome that you came out with. In doing so, you let others know that you’re serious about your topic, and eliminate a lot of other unknown factors that could be causing your issue. Especially for software engineers, because there are so many factors that could cause an issue, asking good, detailed questions allows people to precisely pinpoint the area to fix/ solve your problem.
-
-
-[Here’s an example of a good question.](https://stackoverflow.com/questions/59638242/aws-dms-microsecond-precision-for-cdc-on-mysql-as-source-endpoint)
+## Getting An Upgrade
+Using Bootstrap 5, on the other hand, was like getting a canvas and a set of watercolors. With Bootstrap, you’re able to create so much more with a lot less time and effort. Using preset items like containers, navbars, and built-in features that allow you to adjust padding and margins lets you create a webpage way easier than with raw HTML and CSS. It gives you a lot more tools to work with, which not only saves you time but also allows you to have better control over what you want to show the user. 
 
 
-This person’s question is clear about the software, context, and goal of their code. The user then gives further detail to their situation and gives a sample of their code. They then clearly establish what they want accomplished, describe the unwanted outcome that he comes to, and then re-establish how it’s different from the desired outcome. 
-
-
-This is a great example of a good question, and is supported by the positive responses. Because this user asked a good question that gave proper details, they got multiple detailed responses that explain clearly what went wrong and possible solutions. 
-
-## Bad Questions
-[On the other hand, here is an example of a bad question.](https://stackoverflow.com/questions/79760329/do-i-use-the-it-wrong-the-concept-behind-notification-with-websockets)
-
-
-This person has a very unclear question; based on the title, it is very unclear as to what the user wants to accomplish. Moving on to the description, the grammar is terrible, and it is still unclear as to what the user has trouble with and what he wants help with. On top of that, at the end, he asks if his code is ‘wrong’ and asks others what they would change without specifying his goal. 
-
-
-While it’s clear that this person’s native language isn’t English (based on the code comments), there are multiple ways the user could have gone about asking the question. Things like clarifying that their native language isn’t English or using a translator online, could have solved this issue. 
-
-The post has 5 downvotes and is currently closed with a note from Stack Overflow that it ‘‘needs to be more focused.’’ 
-
-## Good Questions as a Skill
-Learning about what constitutes a good and bad question made me learn a lot more about not only software engineering, but really how to tackle problem solving in general. While asking good questions is especially important for software engineers, this strategy can be applied anywhere in life, as getting proper context to your problem, trying your best to search and solve it yourself, and then being as specific as possible to what outcome you want, helps everyone involved in trying to resolve your issue. Learning to ask better questions doesn’t just make you a better engineer—it makes you a clearer thinker and communicator in every aspect of life.
+## Why Frameworks?
+Even with all the new features of Bootstrap, however, I still had a difficult time adjusting at first. There are a lot of different and new commands that you need to learn in order to effectively create a nice webpage with navbars, footers, and buttons. However, once I got past that, I was able to create great webpages way easier than with just regular HTML and CSS. I realized that UI frameworks give you more control over what exactly you want to put out, and therefore let you bring your vision to life. UI frameworks allow you to put less time and effort into making something look pretty, and lets you spend more time focusing on things like the backend. Using frameworks instead of raw HTML and CSS is like instead of trying to create a masterpiece with just a stick, you’re given a multitude of paintbrushes and colors to make something nice. For software engineering, while both the user interface and back end are equally important, frameworks help streamline the process of connecting the front to the back, and overall help create a better experience for both the user and the engineer. ****
