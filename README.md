@@ -1,3 +1,3 @@
 # Professional Portfolio
 
-For details on this professional portfolio, please see https://techfolios.github.io.
+Portfolio containing essays and projects for Gerric Abe. Can be accessed with https://g3rr1c.github.io/.
