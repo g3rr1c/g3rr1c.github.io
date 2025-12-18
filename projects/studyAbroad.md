@@ -4,7 +4,7 @@ type: project
 image: img/japanWizs/japanFlag.jpg
 title: "Year Long Study Abroad"
 date: 2024
-published: true
+published: false
 labels:
   - Communication
   - Adaptability
