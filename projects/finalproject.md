@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/ribows/ribowlogo.png
+image: img/ribows/rainbow.jpg
 title: "RIBows: A UH Club Finder"
 date: 2025
 published: true
