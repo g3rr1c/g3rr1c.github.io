@@ -24,17 +24,17 @@ RIBows is a website built by University of Hawaii at Manoa (UHM) students, for U
 ## Contributions
 While I was involved with various bug fixing and UI improvements throuhgout the site, I mainly contributed to the RIBows search page. The search page connects to the Prisma database to fetch all of the different RIOs, and displays them in a grid like pattern. For the search bar, the userinput immediately gets parsed and sorts the RIOs first by title, then by description to match what the user is searching.
 
-<img class="img-fluid" src="../img/ribows/filter.png" width="500" height="auto">
+<img src="../img/ribows/filter.png" width="500" height="auto">
 
 Along with the search bar, I also implemented the filter feature and bookmark button. For the filter, the RIO's are automatically sorted by popularity, which is sorted from highest amount of bookmarked clubs to lowest. Through the filter, you are able to sort the list from the default trending, to alphabetical (a-z, z-a), newest clubs, and oldest clubs. The filter also allows the user to sort by club type, including interests of Academic/Professional, Fraternity/Sorority, Political, Sports/Leisure, and more. 
 
-<img class="img-fluid" src="../img/ribows/rioCard.png" width="500" height="auto">
+<img src="../img/ribows/rioCard.png" width="500" height="auto">
 
-<img class="img-fluid" src="../img/ribows/searchLogged.png" width="500" height="auto">
+<img src="../img/ribows/searchLogged.png" width="500" height="auto">
 
 As for the bookmark button, I added a feature that has the button only show up if the user is logged in. If the user is logged in, the page also fetches the user's bookmarked RIO's and then fills the button accordingly on the search page. 
 
-<img class="img-fluid" src="../img/ribows/rioCard.png" width="500" height="auto">
+<img src="../img/ribows/rioCard.png" width="500" height="auto">
 
 
 Another feature that I contributed to was the RIO card page. When an RIO card is clicked, a bigger card pops up containing more information, including a full purpose statement, main contact, and an email button that allows you to send a request to join the club. 
